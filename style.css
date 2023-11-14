@@ -1,47 +1,77 @@
 body{
     background-color: lavender;
+    margin: auto;
+    padding: 10px;
 }
 h2 p{
     font-size: large;
+    margin: auto;
+    padding: 10px;
 }
 #Work{
     font-size: medium;
+    margin: auto;
+    padding: 10px;
 }
 #Personal{
     font-size: medium;
+    margin: auto;
+    padding: 10px;
 }
 #Forward{
     font-size: medium;
+    margin: auto;
+    padding: 10px;
 }
 .Dogs{
     font-size: medium;
+    margin: auto;
+    padding: 10px;
 }
 p.Swimming{
     font-size: medium;
+    margin: auto;
+    padding: 10px;
 }
 p.Golf{
     font-size: medium;
+    margin: auto;
+    padding: 10px;
 }
 p.Skiing{
     font-size: medium;
+    margin: auto;
+    padding: 10px;
 }
 p.Climbing{
     font-size: medium;
+    margin: auto;
+    padding: 10px;
 }
 .Sports{
     font-size: large;
+    margin: auto;
+    padding: 10px;
 }
 .Why{
     font-size: large;
+    margin: auto;
+    padding: 10px;
 }
 .Worker{
     font-size: medium;
+    margin: auto;
+    padding: 10px;
 }
 .Dedicated{
     font-size: medium;
+    margin: auto;
+    padding: 10px;
 }
 .Learner{
     font-size: medium;
+    margin: auto;
+    padding: 10px;
 }
 .Robinhood{
     font-size: small;
@@ -57,6 +87,7 @@ p.Climbing{
 }
 #LinkedIn{
     font-size: large;
+    padding: 10px;
 }
 #Rio{
   margin-left: auto;
@@ -64,6 +95,7 @@ p.Climbing{
   display: block;
   width: 50%;
   height: 50%;
+  padding: 10px;
 }
 #Bailey{
     display: block;
@@ -71,6 +103,7 @@ p.Climbing{
     margin-right: auto;
     width: 50%;
     height: 50%;
+    padding: 10px;
 }
 #Stratton{
     display: block;
@@ -78,6 +111,7 @@ p.Climbing{
     margin-right: auto;
     width: 50%;
     height: 50%;
+    padding: 10px;
 }
 #Thatcher{
     display: block;
@@ -85,6 +119,7 @@ p.Climbing{
     margin-right: auto;
     width: 50%;
     height: 50%;
+    padding: 10px;
 }
 #Giants{
     display: block;
@@ -92,10 +127,16 @@ p.Climbing{
     margin-right: auto;
     width: 50%;
     height: 50%;
+    padding: 10px;
 }
 a:link{
     color: blue;
 }
 a:visited{
     color: lime;
+}
+.football{
+    font-size: medium;
+    margin: auto;
+    padding: 10px;
 }
