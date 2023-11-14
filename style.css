@@ -1,8 +1,3 @@
-p.Worker{
-    font-size: medium;
-    font-family: cursive;
-    color: gold;
-}
 h2 p{
     font-size: medium;
 }
@@ -13,5 +8,20 @@ h2 p{
     font-size: small;
 }
 #Forward{
+    font-size: small;
+}
+.Dogs{
+    font-size: small;
+}
+p.Swimming{
+    font-size: small;
+}
+p.Golf{
+    font-size: small;
+}
+p.Skiing{
+    font-size: small;
+}
+p.Climbing{
     font-size: small;
 }
