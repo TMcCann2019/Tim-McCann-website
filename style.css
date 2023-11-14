@@ -1,27 +1,30 @@
 h2 p{
-    font-size: medium;
+    font-size: large;
 }
 #Work{
-    font-size: small;
+    font-size: medium;
 }
 #Personal{
-    font-size: small;
+    font-size: medium;
 }
 #Forward{
-    font-size: small;
+    font-size: medium;
 }
 .Dogs{
-    font-size: small;
+    font-size: medium;
 }
 p.Swimming{
-    font-size: small;
+    font-size: medium;
 }
 p.Golf{
-    font-size: small;
+    font-size: medium;
 }
 p.Skiing{
-    font-size: small;
+    font-size: medium;
 }
 p.Climbing{
-    font-size: small;
+    font-size: medium;
+}
+.Sports{
+    font-size: large;
 }
