@@ -93,3 +93,9 @@ p.Climbing{
     width: 50%;
     height: 50%;
 }
+a:link{
+    color: blue;
+}
+a:visited{
+    color: lime;
+}
