@@ -1,1 +1,17 @@
-body{}
+p.Worker{
+    font-size: medium;
+    font-family: cursive;
+    color: gold;
+}
+h2 p{
+    font-size: medium;
+}
+#Work{
+    font-size: small;
+}
+#Personal{
+    font-size: small;
+}
+#Forward{
+    font-size: small;
+}
